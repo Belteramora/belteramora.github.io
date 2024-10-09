@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Test Avi-1.0";
 const contentToCache = [
-    "Build/testavi v7.loader.js",
-    "Build/testavi v7.framework.js.unityweb",
-    "Build/testavi v7.data.unityweb",
-    "Build/testavi v7.wasm.unityweb",
+    "Build/testavi v8.loader.js",
+    "Build/testavi v8.framework.js.unityweb",
+    "Build/testavi v8.data.unityweb",
+    "Build/testavi v8.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
